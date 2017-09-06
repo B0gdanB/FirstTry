@@ -17,5 +17,6 @@ public class App
 
         System.out.println("Hour of day - " + joda.getHourOfDay());
         System.out.println("Week of weekyear - " + joda.getWeekOfWeekyear());
+        System.out.println("GitCommit");
     }
 }
